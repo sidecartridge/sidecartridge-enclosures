@@ -13,4 +13,4 @@ This folder contains the FreeCAD source files for the [ACSI2STM Compact](https:/
 
 ## STL Files
 
-- Printable STL files are located in [here](https://www.thingiverse.com/thing:7011991).
+- Printable STL files are located in [here](https://www.printables.com/model/1679552-acsi2stm-compact-enclosure).

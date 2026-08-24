@@ -2,12 +2,12 @@
 Enclosures and boxes for SidecarTridge devices, with FreeCAD source files in each folder.
 
 ## Projects
-- [`acsi2stm-compact/README.md`](acsi2stm-compact/README.md): ACSI2STM Compact enclosure design.
-- [`acsi2stm-mini/README.md`](acsi2stm-mini/README.md): ACSI2STM Mini enclosure design.
-- [`external-usb-c-pd-psu/README.md`](external-usb-c-pd-psu/README.md): External USB-C PD PSU enclosure design.
-- [`internal-usb-c-psu/README.md`](internal-usb-c-psu/README.md): Internal USB-C PSU enclosure design.
-- [`multidevice/README.md`](multidevice/README.md): Multi-device enclosure design.
-- [`st2vga/README.md`](st2vga/README.md): ST2VGA enclosure design.
+- [`acsi2stm-compact/README.md`](acsi2stm-compact/README.md): ACSI2STM Compact enclosure design. 🛒 [Product page](https://sidecartridge.com/products/acsi2stm-atari-st/)
+- [`acsi2stm-mini/README.md`](acsi2stm-mini/README.md): ACSI2STM Mini enclosure design. 🛒 [Product page](https://sidecartridge.com/products/acsi2stm-mini-atari-st/)
+- [`external-usb-c-pd-psu/README.md`](external-usb-c-pd-psu/README.md): External USB-C PD PSU enclosure design. 🛒 [Product page](https://sidecartridge.com/products/external-usb-c-pd-psu-atari-st/)
+- [`internal-usb-c-psu/README.md`](internal-usb-c-psu/README.md): Internal USB-C PSU enclosure design. 🛒 [Product page](https://sidecartridge.com/products/usb-c-pd-psu-atari-st/)
+- [`multidevice/README.md`](multidevice/README.md): Multi-device enclosure design. 🛒 [Product page](https://sidecartridge.com/products/sidecartridge-multidevice-atari-st/)
+- [`st2vga/README.md`](st2vga/README.md): ST2VGA enclosure design. 🛒 [Product page](https://sidecartridge.com/products/st2vga-atari-st/)
 
 ## License
 All designs stored in this repository are licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International. Linked external resources are not covered by this license.
